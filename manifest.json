@@ -1,0 +1,10 @@
+{
+  "name": "GeoIP Locator",
+  "description": "Gives basic geographic information for a selected IP. Select the IP and then right-click.",
+  "version": "1",
+  "permissions": ["contextMenus", "http://ip-api.com/*"],
+  "background": {
+    "scripts": ["geoip.js"]
+  },
+  "manifest_version": 2
+}
