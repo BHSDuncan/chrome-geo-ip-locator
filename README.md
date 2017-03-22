@@ -1,4 +1,4 @@
-# Chrome Geo IP Locator
+# Chrome Geo IP Locator Extension
 
 Simple Chrome extension that allows you to view the geographic information of any valid, highlighted IPv4 or IPv6 address in your Chrome browser. Simply highlight the IP, right click, and have the extension do the lookup. Easy as pi(e).
 
