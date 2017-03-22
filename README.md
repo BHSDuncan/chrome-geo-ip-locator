@@ -9,4 +9,5 @@ The extension calls out to ip-api.com (http://ip-api.com/docs/).  Note there is 
 - Look at making the output a bit nicer. It currently is presented in an alert box.
 
 *Bugs*
+
 Found some? Let me know!
